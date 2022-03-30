@@ -1,0 +1,10 @@
+.MyPurchases {
+    position: absolute;
+    left: 40%;
+}
+
+.Purchase {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,27 @@
+.Account-Details {
+    background-color: #234563;
+    width: 150px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    position: absolute;
+    right: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.Account-Details span {
+    padding: 10px;
+}
+
+.link {
+    margin-bottom: 30px;
+}
+
+.Account-Details span:hover {
+    border: 1px solid #fff;
+}
